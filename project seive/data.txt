@@ -1,0 +1,574 @@
+[
+  {
+    'Project name': 'Push Snap',
+    'Description ': 'Get Push protocol notifications directly in metamask',
+    'Infrastructure ': 'TYPESCRIPT,PUSH PROTOCOL,METAMASK SNAP',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'Debugging in metamask snap is very tedious',
+    'contact ': 'https://www.linkedin.com/in/gulshan-vasnani-21091b71/',
+    'Links ': 'https://github.com/gulshanvas/push-metamask-snap'
+  },
+  {
+    'Project name': 'Proof of Trust',
+    'Description ': 'No more insolvency, a protocol layer to audit and validate reserves against liabilities of Centralised Exchanges.',
+    'Infrastructure ': 'SOLIDITY,REACT,NODE.JS,JAVASCRIPT,ETHERS.JS',
+    'Need ': 'No more insolvency, a protocol layer to audit and validate reserves against liabilities of Centralised Exchanges.',       
+    'contact ': 'https://devfolio.co/@adivk',
+    'Links ': 'https://github.com/auralshin/argonauts/tree/main'
+  },
+  {
+    'Project name': 'block-alerts',
+    'Description ': 'In which you can set up alerts on your smart contarcts functions, even if its transactions or events',
+    'Infrastructure ': 'SOLIDITY,REACT,DJANGO,PYTHON',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'Block Alerts provide a platform to set up alerts in your smart contracts.',
+    'contact ': 'https://www.linkedin.com/in/avirajkhare00/',
+    'Links ': 'https://github.com/Block-Alerts-ETH-India'
+  },
+  {
+    'Project name': 'Bowled ',
+    'Description ': 'Match engine, ',
+    'Infrastructure ': 'IPFS,PYTHON,SVELTE,POLYGON',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'Live your dream of owning a T20 cricket team!',
+    'contact ': 'https://www.linkedin.com/in/madhukar01/',
+    'Links ': 'https://github.com/bunsamosa/bowled'
+  },
+  {
+    'Project name': 'DePay',
+    'Description ': 'decentralized payment and receive crypto, basically connecting the accounts using the phone numbers,any receiver or sender can actually clameand create their phone number as an identity using polygon app',
+    'Infrastructure to build ': 'web2',
+    'Need ': 'Decentralized Payment method to send and receive crypto on your account by just providing the phone number which acts as a unique identifier built around Polygon ID’s identity framework',
+    'contact ': 'https://github.com/mleoanbarasan',
+    'Links ': 'https://github.com/giant-protocol/ethindia22-contracts'
+  },
+  {
+    'Project name': 'sadaiv-ci',
+    'Description ': 'backing up github rep to filecoin and web3  distributed systems',
+    'Infrastructure ': 'Ipfs,polygon blockchain,filecoin',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'losing the deposotories can be averted',
+    undefined: 'sadaiv-ci/sadaiv-web-app: Sadaiv Web App is the explorer for Continuous Integration Pipeline to Filecoin Network. (github.com)'
+  },
+  {
+    'Project name': 'proof  of Trust',
+    'Description ': 'user can prove their liabilties',
+    'Infrastructure ': 'mercul tree,proof of reserve,proof of liabilities',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'big companies normally want to prove their liabilities to gain the trust of the consumers',
+    undefined: 'hackers from node finanace.',
+    'Links ': 'https://github.com/auralshin/argonauts/tree/main'
+  },
+  {
+    'Project name': 'ETH guard',
+    'Description ': 'vsc extension to detect bugs for smart contract',
+    'Infrastructure ': 'machine learning',
+    'Infrastructure to build ': 'vsc',
+    'Need ': 'debugging',
+    'Links ': 'stanlysamuel/EthGuard: VSCode extension for smart contract bug detection using machine learning - ETH India 2022 competition entry (github.com)'
+  },
+  {
+    'Project name': 'ChargeSwap',
+    'Description ': 'collecting data from electric vehicle charging stations',
+    'Infrastructure ': 'iconomy,rfid key,ipfs,polygon',
+    'Infrastructure to build ': 'meta-mask',
+    'Need ': 'information purposes',
+    'Links ': '2911rahulpathak/ChargeSwapETH: Matic Smart Contract is Deployed on https://mumbai.polygonscan.com/address/0x547655b520152a93c66204446AB772B89474975B (github.com)'
+  },
+  {
+    'Project name': 'TRIKL',
+    'Description ': 'rewards for interacting with.',
+    'Infrastructure ': 'giveaway model,social media model,ipfs,polygon,ethereum,lens protocol',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'entertainment purposses',
+    'Links ': 'TRIKL - Read, Write, Earn Rewards'
+  },
+  {
+    'Project name': 'SafeGuard',
+    'Description ': 'final check before execution',
+    'Infrastructure ': 'safe guard,deny guard,gas volatility guard,tima guard.',
+    'Infrastructure to build ': 'meta mask',
+    'Need ': 'account security',
+    'contact ': ' ',
+    'Links ': 'Dayitva/safe-guard (github.com)'
+  },
+  {
+    'Project name': 'creatorslane',
+    'Description ': 'platform to connect with fund raisers and big companies',
+    'Infrastructure ': 'bootstrap,push protocol,bootstrap,solidity,html,css,js',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'To have the motivation ',
+    'Links ': 'ari4325/creators-lane (github.com)'
+  },
+  {
+    'Project name': 'mintix',
+    'Description ': 'scope of removing fake tickets',
+    'Infrastructure ': 'solidity,ganache.cli,next.js,tailwind css,truffle,ipfs',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'to own their tickets',
+    'Links ': 'https://github.com/nisargsc/mintix'
+  },
+  {
+    'Project name': 'MYON',
+    'Description ': 'real time notification for events ocurring in a smart contract',
+    'Infrastructure ': 'node.js,polygon,nect,js,ens,push protocol',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'information purposes',
+    'Links ': 'https://www.canva.com/design/DAFTuqyN4_E/E-XNBHsct_dvdn8Fw-VLEA/edit?utm_content=DAFTuqyN4_E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
+  },
+  {
+    'Project name': 'bloombot',
+    'Description ': 'chatbot with web3 help infrastructure',
+    'Infrastructure ': 'biconomy,push protocol',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'making process easier',
+    'Links ': 'https://github.com/Ash-394/Bloombot'
+  },
+  {
+    'Project name': 'global health records',
+    'Description ': 'digitalization of hospital records',
+    'Infrastructure ': 'react,django,twilio,push protocol,cartesi.',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'error less transcription in records',
+    'Links ': 'AakashRana000q/eth_india (github.com)'
+  },
+  {
+    'Project name': 'tryfit',
+    'Description ': 'health dapp with rewards benefits',
+    'Infrastructure ': 'solidity,js,tailwind css,react js,evm,fitbitapi',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'health benefits',
+    'Links ': 'muskbuster/EthIndia at bicnomyFrontend (github.com)'
+  },
+  {
+    'Project name': 'popcorn',
+    'Description ': 'content creators funding platform',
+    'Infrastructure ': 'solidity,livepeer,next.js,push,moonbeam',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'funding opputunity',
+    'Links ': 'https://github.com/manan-m-shah/popcorn'
+  },
+  {
+    'Project name': 'covex',
+    'Description ': 'a dex market and tokken summary info',
+    'Infrastructure ': 'react,restapi',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'gathering information',
+    'Links ': 'https://devfolio.co/projects/covex-5200'
+  },
+  {
+    'Project name': 'orb .fi',
+    'Description ': 'safe ,fast transfer',
+    'Infrastructure ': 'solidity,next.js,node.js,react.js',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'faster transfer',
+    'Links ': 'Orb.fi | Devfolio'
+  },
+  {
+    'Project name': 'real review',
+    'Description ': 'decentralised peer system to review grants',
+    'Infrastructure ': 'metamask,infurna,biconysdk,hardhat,polygon',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'to go along with the high pace of papers',
+    'Links ': 'shobhitsundriyal/EthInd22-FE (github.com)'
+  },
+  {
+    'Project name': 'praxis finance',
+    'Description ': "Trade Onchain Perpetual futures built over AAVE's",
+    'Infrastructure ': 'solidity,react,markdown,mongodb,ether,polygon',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'benefits',
+    'Links ': 'proxima424/praxisETHINDIA: Onchain Perpetuals Tokens on top of AAVE Pools :: https://gist.github.com/proxima424/c8c5bf5117c4bb5fdde25e3a3301390a'
+  },
+  {
+    'Project name': 'anime.org',
+    'Description ': 'movie tickets ',
+    'Infrastructure ': 'foundry ,solidity,ethereum',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'ticket demand',
+    'Links ': 'Anime movie Organizing smart contract based on public demand with nft tickets. (github.com)'
+  },
+  {
+    'Project name': 'heal.eth',
+    'Description ': 'medical information',
+    'Infrastructure ': 'solidity,js,etheruem,css ,html,reactjs,ether.js',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'medical information',
+    'Links ': 'https://drive.google.com/drive/folders/1jxEITbl-FBJt9qPSWz0ZgAMfsP85r8aZ?usp=share_link'
+  },
+  {
+    'Project name': 'code sol',
+    'Description ': 'competitive smart contract programming platform',
+    'Infrastructure ': 'solidity,react,node.js,django,hardhat,ens',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'learning smart contract',
+    'Links ': 'https://drive.google.com/drive/folders/1jxEITbl-FBJt9qPSWz0ZgAMfsP85r8aZ?usp=share_linkk'
+  },
+  {
+    'Project name': 'fee ninja',
+    'Description ': 'information about gas fee.',
+    'Infrastructure ': 'solidity.node.js,docker,ether.js,express.js,css/html',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'information purposes',
+    'Links ': 'https://github.com/vimarsh244/ethindia22'
+  },
+  {
+    'Project name': 'makefrens ',
+    'Description ': 'meet strangers app',
+    'Infrastructure ': 'javascript,ether.js,wagmi,rainbowkit,valist,worldcoin,hurddle01,worldid,huddle01sdk',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'new socialmedia.',
+    'Links ': 'sanjeed5/meetfrens (github.com)'
+  },
+  {
+    'Project name': 'zapp',
+    'Description ': 'underlying assets that gain you  no money',
+    'Infrastructure ': 'solidity,node.js,metamask,js,redux,mongodb,hardhat,polygon',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'loans platform',
+    'Links ': 'prakhar728/Ethermions_ETHIndia22 (github.com)'
+  },
+  {
+    'Project name': 'pokoplan',
+    'Description ': 'playing a game during vediocall imbedded',
+    'Infrastructure ': 'js,tailwind css,react.js,vite,huddle01',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'fun with meetings',
+    'Links ': 'https://github.com/Hari0701/pokoplan'
+  },
+  {
+    'Project name': 'metaborrow',
+    'Description ': 'games towards decentralised system',
+    'Infrastructure ': 'solidity,js,polygon,push protocol,revise.',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'monetize gaming assets',
+    'Links ': 'https://github.com/blokchain-society/Frontend_Eth_India'
+  },
+  {
+    'Project name': 'hefa',
+    'Description ': 'connecting doctor ,patients and insurance company.',
+    'Infrastructure ': 'solidity,react,js,ether.js,biconomy sdk,hardhat,polygon',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'insurrance in one place',
+    'Links ': 'https://github.com/2911rahulpathak/Chain-Blockers'
+  },
+  {
+    'Project name': 'Meet3Club',
+    'Description ': 'platform that connects people randomly ',
+    'Infrastructure ': 'Huddle01,react,js, rainbox SDK',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'connects people',
+    'Links ': 'https://github.com/Meet3club/Dashboard'
+  },
+  {
+    'Project name': 'Finesse',
+    'Description ': 'ecosystem for fans to get  exclusive access to their favorite songs and music artists',
+    'Infrastructure ': 'next.js,biconomy,uniswap,livepeer,polygon,nftport,.storage,huddle01,push chat',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'ecosystem',
+    'Links ': 'https://github.com/mizanxali/finesse'
+  },
+  {
+    'Project name': 'Consultly',
+    'Description ': 'time-based consultations become inefficient as the clients cannot pay for the time for consultants used',
+    'Infrastructure ': 'next.js,ethers.js,tailwind css,suerfluid,huddle01',
+    'Need ': 'face-to face consultants',
+    'Links ': 'https://www.youtube.com/watch?v=4p1tQj_hxZg'
+  },
+  {
+    'Project name': 'PredictNow',
+    'Description ': 'app allow for transparency and easy access to prediction brackets for events like FIFA World Cup, NBA Playoffs, NHL Playoffs, NCAA March Madness.',
+    'Infrastructure ': 'react,node.js,openai,worldcoin,biconomy sdk',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'transparency',
+    'Links ': 'https://github.com/rohitverma007/ethindia'
+  },
+  {
+    'Project name': 'multiMon',
+    'Description ': " NFT's being used in a multiple chain such that gaming computations can be transferred to less expensive chain while the security and richness can be preserved on main chains",
+    'Infrastructure ': 'solidity,react,javascript,remix(ide),node.js.hardhat',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'gaming computations can be transferred to less expensive',
+    'Links ': 'https://github.com/0xHashiras/ETH-INDIA-DAPP'
+  },
+  {
+    'Project name': 'Banana smart wallet',
+    'Description ': 'Implementation of account abstraction.,Integration of account abstraction with Gnosis-safe.,Integrating ZK Snarks in the front end.',
+    'Infrastructure ': 'react,gnosis,account abstraction,snark.js,erc4337,sercom',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'account abstraction',
+    'Links ': 'https://github.com/nlok5923/hacking-at-ethindia'
+  },
+  {
+    'Project name': 'DPI',
+    'Description ': "For an average anon to use crypto for daily use is a nightmare.That's where we bring our simplest UX platform with zero gas and single address for any chain\r\n" +
+      " to make people's assets safer, secure and transactions more resiliant than ever before.",
+    'Infrastructure ': 'solidity,react,firebase,next,js,typescript',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'assets safer crypto',
+    'Links ': 'https://github.com/r4reetik/dpi'
+  },
+  {
+    'Project name': 'Blockpe',
+    'Description ': 'Biconomy for social login for merchants,Router protocol for making sure irrespective of what chain & token the end consumer pays in, the merchants always gets in their default chain & token.',
+    'Infrastructure ': 'firebase,cloudinary,biconomy,next,js,chakra-ui,router-protocol',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'crypto payments',
+    'Links ': 'https://github.com/siddharthborderwala/blockpe'
+  },
+  {
+    'Project name': 'cryptster',
+    'Description ': "decentralized crowdfunding app, Lens right now doesn't have a platform to support creators except for collect modules 
+through publications",
+    'Infrastructure ': 'css,javascript, next.js,typescript,tailwind,lem=ns protocol',
+    'Need ': 'decentralized crowdfunding app,',
+    'Links ': 'https://github.com/cryptsterxyz/cryptster'
+  },
+  {
+    'Project name': 'zero pass ',
+    'Description ': 'users can verify their phone numbers in 100 websites',
+    'Infrastructure ': 'html,css,next.js,node.js,polygon,mina protocol,cartesi, marlin stackos,graph protocol',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'validate phone number with NFT',
+    'Links ': 'https://github.com/DomnicAmalan/zeropas-api'
+  },
+  {
+    'Project name': 'dragd',
+    'Description ': "Creating build jobs/deployments for each user. Each user's site gets built into a static bundle and is deployed to IPFS. The job system to handle this was,challenging. This was helped by StackOS' deCloud offerings.",
+    'Infrastructure ': 'IPFS,REACT,NEXT.JS,DOCKER,KUBERNETES,MONGODB',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'Super simple creator tools to make websites and dapps.',
+    'Links ': 'https://dra.gd/'
+  },
+  {
+    'Project name': 'bima coin',
+    'Description ': 'In a decentralized world, insuring physical products gets challenging due to the lack of interfacing. With "Bima Coin", we provide an interface between the,hardware sensors and the blockchain, to provide insurance to real-world things such as a car, and eventually something like even a vacuum cleaner',
+    'Infrastructure ': 'SOLIDITY,PYTHON,ETHERS.JS,NODEJS,HARDHAT,POLYGON,POLYGON MUMBAI TESTNET,STACKOS,CARTESI',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'hardware sensors and the blockchain',
+    'Links ': 'https://github.com/idRit/de-insure-polygon-factory'
+  },
+  {
+    'Project name': 'storemate',
+    'Description ': 'Storemate helps you to prevent losing your IPFS data thereby preserving the on chain assets built on it',
+    'Infrastructure ': 'REACT,JAVASCRIPT,ETHEREUM,COVALENT,NEXT,FILECOIN,NFTPORT,FVM,ZONDAX',
+    'Need ': 'built on top of IPFS',
+    'Links ': 'https://github.com/hfccr/storemate'
+  },
+  {
+    'Project name': 'AlkyneFi',
+    'Description ': 'Socializing Finance to simply trading',
+    'Infrastructure ': 'SOLIDITY,REACT,ETHERS.JS,TENSORBOARD,UNISWAP,COVALENT,POLYGON,IPFS / FILECOIN,LENS PROTOCOL,PUSH PROTOCOL',        
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'Socializing Finance to simply trading',
+    'Links ': 'https://github.com/AlkyneFi'
+  },
+  {
+    'Project name': 'ease NFT',
+    'Description ': 'integrate multiple API and SDK services to power our application.',
+    'Infrastructure ': 'SOLIDITY,IPFS,REACT,JAVASCRIPT,DOCKER,REACTSTRAP,ETHERS.JS,COVALENT,POLYGON',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'API and SDK',
+    'Links ': 'https://nft-pob129647a1408998eb60549426b002fa65c1b7283-authority.stackos.io/home'
+  },
+  {
+    'Project name': 'panda wallet',
+    'Description ': 'build a wallet that leverages account abstraction to ease the onboarding of users. So naturally we did not want to adopt the regular chrome extension pop up ,method. Instead we went with injecting content scripts. Which are essentially layover on top of given websites.',
+    'Infrastructure ': 'REACT,HARDHAT,CHAKRAUI,ETHER.JS,ACCOUNT ABSTRACTION SDK,EIP 4337',
+    'Infrastructure to build ': 'Web3',
+    'Need ': 'creating accout wallet',
+    'Links ': 'https://github.com/dark-circles-2022/panda-wallet'
+  },
+  {
+    'Project name': 'peerstreams',
+    'Description ': 'It is a Live Streaming Platform build on Livepeer for content creators , Events , Shows , Live classes and many more',    'Infrastructure ': 'TECHNOLOGIES USED,SOLIDITY,REACT,TAILWIND CSS,NODEJS',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'Twitch of Web3 but more better,Decentralized and with some Analysis',
+    'Links ': 'https://github.com/shxb7/peer-streams'
+  },
+  {
+    'Project name': 'uzumeta',
+    'Description ': 'Decentralizing and automating the scholarship program in web3 games',
+    'Infrastructure ': 'SOLIDITY,REACT,OPENZEPPELIN,NEXT.JS,HARDHAT,WAGMI',
+    'Infrastructure to build ': 'Web3',
+    'Need ': 'decentralized and automation',
+    'Links ': 'https://github.com/UZMT-EthIndia/UZMT-contract'
+  },
+  {
+    'Project name': 'moonshot',
+    'Description ': 'innvovative DeFi ecosystem to the conventional betting experiences',
+    'Infrastructure ': 'SOLIDITY,OPENZEPPELIN,FIGMA,REACT.JS,POLYGON,SHARDEUM',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'An innovative DeFi ecosystem for betting on Real World Events on Shardeum',
+    'Links ': 'https://github.com/ajainuary/moonshot-project/tree/main/contracts'
+  },
+  {
+    'Project name': 'Tsunami',
+    'Description ': "Token streaming on per-second basis as a payroll or grant has already been picking up and showing uses. That includes, for example let's say a DAO funding a project while having a hold of a part of promised granted amount over time as stream. As using a stream allows DAO to stop stream if funds are misused.",
+    'Infrastructure ': 'CRYPTOGRAPHY,SOLIDITY,REACT,TYPESCRIPT,ETHEREUM,HARDHAT,CIRCOM,ZKSNARK',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'Tsunami is a protocol for PRIVATE token streaming at a per-second rate - without revealing information about the stream or its participants. Powered by zkSNARK tech.',
+    'contact ': 'https://www.linkedin.com/in/thenvn/',
+    'Links ': 'https://github.com/theNvN/tsunami'
+  },
+  {
+    'Project name': 'TheFlowX',
+    'Description ': 'FlowX is an all in one platform to make your own custom logics just by dragging and dropping the blocks. We have a wide variety of blocks.',
+    'Infrastructure ': 'NODE.JS,DOCKER,THEGRAPH,STACKOS,IPFS / FILECOIN,PUSH PROTOCOL,VALIST,ROUTER PROT',
+    'Infrastructure to build ': 'Web3',
+    'Need ': 'A No-Code solution to take various actions based on contract events using customizable blocks.',
+    'contact ': 'https://github.com/harshu4',
+    'Links ': 'https://github.com/ssd39/TheFlowX-Frontend'
+  },
+  {
+    'Project name': 'PlayAstra',
+    'Description ': 'PlayAstra is an Decentralised Community Governed Quiz and Knowledge Platform for setting up quizzes to test your knowledge on different fields like Esports, Soccer, etc against other users and earn rewards in the process. It is run entirely by the commnunity and created by the community for the community.',
+    'Infrastructure ': 'POLYGON,NFTPORT,IPFS / FILECOIN,HYPERLANE,VALIST,MARLIN',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'PlayAstra is a Decentralised Community Governed Quiz and Knowledge Platform',
+    'contact ': 'https://www.linkedin.com/in/harshal-bhangale/',
+    'Links ': 'https://github.com/sushmitsarmah/ethindia2022'
+  },
+  {
+    'Project name': 'Crypto Legacy',
+    'Description ': 'Crypto Legacy allows users to create a will of their crypto assets that will be automatically executed at a later point in time, to multiple beneficiaries on the network. User can approve their desired assets and the amount they wish to pass on to their beneficiaries. Once approved we create a will for their asset on the smart contract. We use the Gelato network to schedule execution of the will at the time of expiry. Once the will expires given the timestamp by the users, the execute will function on the smart contract will be automatically triggered by the Gelato network.',
+    'Infrastructure ': 'SOLIDITY,NESTJS,REMIX IDE,HARDHAT,COVALENT,POLYGON MUMBAI TESTNET,POLYGONSCAN',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'Pass on your crypto legacy',
+    'contact ': 'https://github.com/harshasingamshetty1',
+    'Links ': 'https://github.com/bit-blenders/crypto-legacy'
+  },
+  {
+    'Project name': 'FlashBag',
+    'Description ': 'Writing unit tests for cross-chain contracts is really a challenging task with the current tech stack.We had to deploy contracts each time on to the public testnets to see if they were working as expected.The cross-chain transactions were failing initially, but were fixed after a thorough session of debugging.',
+    'Infrastructure ': 'SOLIDITY,REACT,NEXT.JS,CONNEXT,ETHERS,WAGMI',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'Bridge your complex DeFi positions across chains for the best yield',
+    'contact ': 'https://www.linkedin.com/in/apoorvlathey/',
+    'Links ': 'https://github.com/apoorvlathey/flashbag'
+  },
+  {
+    'Project name': 'MeData',
+    'Description ': 'MeData tries to make it easy for any 3rd party to perform mathematical operations on an integer array of data and then test if resulting value is within a given range.',
+    'Infrastructure ': 'POLYGON,MINA PROTOCOL,PUSH PROTOCOL',
+    'Need ': 'Health Compute Engine using ZKP',
+    'contact ': 'https://www.linkedin.com/in/gaurav7019/',
+    'Links ': 'https://github.com/MehulG/ETHIndia22-MEDATA'
+  },
+  {
+    'Project name': 'Storemate',
+    'Description ': "As of today a lot of important assets are built on top of IPFS. In terms of general perception everyone things that once their data is on IPFS, it is immutable and perserved forever. While the first argument holds, the second doesn't and its dependent on an intricate set of things happening in the background to keep the data available. Storemate helps users understand the risk to their assets 
+and IPFS data by showing all their assets that are linked to IPFS, allowing users to set bounties for IPFS storage providers to host the data and allowing users to subscribe to personaized Push notifications based on their data's pinning and deals.",
+    'Infrastructure ': 'REACT,JAVASCRIPT,ETHEREUM,COVALENT,NEXT,FILECOIN,NFTPORT,FVM,ZONDAX',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'Storemate helps you to prevent losing your IPFS data thereby preserving the on chain assets built on it',
+    'contact ': 'https://github.com/hfccr',
+    'Links ': 'https://github.com/hfccr/storemate'
+  },
+  {
+    'Project name': 'Zephyr Wallet',
+    'Description ': 'Account abstraction has for a long time been a dream of the Ethereum developer community. Instead of EVM code just being used to implement the logic of applications, it would also be used to implement the verification logic (nonces, signatures…) of individual users’ wallets.',
+    'Infrastructure ': 'SOLIDITY,NEXT.JS,TYPESCRIPT,THE GRAPH,TAILWIND CSS,HARDHAT,COVALENT,POLYGON',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'Next-gen smart contract wallet to serve the needs of a new age in Web3, one with account abstraction at the core',
+    'contact ': 'https://www.linkedin.com/in/sarthakv/',
+    'Links ': 'https://github.com/ethCadets'
+  },
+  {
+    'Project name': 'DefiLoom',
+    'Description ': "project is built on top of PowerLoom's API. I found a few inconsistencies in PowerLoom's API especially in the data-types of the response being sent. Also, had a bit of trouble figuring out the needed mathematical formulas but PowerLoom's docs helped there",
+    'Infrastructure ': 'PYTHON,ETHEREUM,RESTAPIS,POWERLOOM',
+    'Need ': "A CLI tool that uses PowerLoom's DeFi API to discover Arbitrage and LP APY opportunities",
+    'contact ': 'https://www.linkedin.com/in/eshaan7/',
+    'Links ': 'https://github.com/eshaan7/DefiLoom'
+  },
+  {
+    'Project name': 'Etherverse',
+    'Description ': 'The crypto native apps have evolved all these years and improved the UX to some extent however the average user time spent on crypto native apps is very low because the apps are boring. Users mostly visit the app, do their work and close the app. This might seem productive for pro users, however for new users there isn’t much to do, so they end up only talking about crypto stuff and not actually playing around/experiment with crypto native apps. Average user time spent can also co-relate with the crypto economy, hence the current to-the-point dapp design do not necessarily help improve crypto adoption.',
+    'Infrastructure ': 'ETHERS.JS,ETHEREUM,SVELTE,VITE,KABOOM',
+    'Infrastructure to build ': 'Nft',
+    'Need ': 'The crypto native apps have evolved all these years and improved the UX to some extent however the average user time spent on crypto native apps is very low because the apps are boring. Users mostly visit the app, do their work and close the app. This might seem productive for pro users, however for new users there isn’t much to do, so they end up only talking about crypto stuff and not actually playing around/experiment with crypto native apps. Average user time spent can also co-relate with the crypto economy, hence the current to-the-point dapp design do not necessarily help improve crypto adoption.',
+    'contact ': 'https://www.linkedin.com/in/sauravkanchan/',
+    'Links ': 'https://github.com/SauravKanchan/etherverse'
+  },
+  {
+    'Project name': 'beyondclub',
+    'Description ': '  NFT loyalty program',
+    'Infrastructure ': 'solidity,next.js,thegraph,tailwind css,gnosis,polygon.',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'advantages of loyalty program',
+    'Links ': 'https://devfolio.co/projects/beyondclub-0ac2'
+  },
+  {
+    'Project name': 'gitnft',
+    'Description ': " user's personalized fun GitHub nft",
+    'Infrastructure ': 'solidity,react, node.js,html,polygon',
+    'Infrastructure to build ': 'NFT',
+    'Need ': 'fun way to interact',
+    'Links ': 'urmaliyadivyanshu31/gitnft: This is For EthIndia (github.com)'
+  },
+  {
+    'Project name': 'sourcehut',
+    'Description ': 'platform for the open-source community',
+    'Infrastructure ': 'Ipfs,polygon,stackos,router protocol',
+    'Infrastructure to build ': 'flutter',
+    'Need ': 'opportunities',
+    'Links ': 'https://github.com/anmol-Git/SourceHunt'
+  },
+  {
+    'Project name': 'santa slay',
+    'Description ': 'a meme game',
+    'Infrastructure ': 'unity,react,nextjs,ethers,tailwind',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'happy game',
+    'Links ': 'app-debug.apk - Google Drive'
+  },
+  {
+    'Project name': 'qwack',
+    'Description ': 'app that pays for socializing',
+    'Infrastructure ': 'solidity,ipfs,polygon,ether.js,wagmi,valist,push,live peer.',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'socialize-make money',
+    'Links ': 'Qwack | Devfolio'
+  },
+  {
+    'Project name': 'bi-ticket',
+    'Description ': 'blockchain ticketing system',
+    'Infrastructure ': 'solidity, sext.js,ethers.js,tailwind css, hardhat',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'ticket sales with blockchain',
+    'Links ': 'https://github.com/shreyas0924/Biticket'
+  },
+  {
+    'Project name': 'alkyne-fi',
+    'Description ': 'AlkyneFi is the first ever Dapp to simply DeFi using',
+    'Infrastructure ': 'solidity,react,ethers.js,tensorboard,uniswap,covalent,polygon,ipfs,lens protocol,push protocol',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'knowledge of trading',
+    'Links ': 'https://github.com/AlkyneFii'
+  },
+  {
+    'Project name': 'BMS',
+    'Description ': 'blockchain based mailings',
+    'Infrastructure ': 'solidity,node.js,next.js,polygon, ipfs,filecoin.',
+    'Infrastructure to build ': 'metamask',
+    'Need ': 'mailing decntralisation',
+    'Links ': 'https://github.com/ComputerKeeda/eth22-BMS-Backend'
+  },
+  {
+    'Project name': 'lensium',
+    'Description ': 'blog dapp',
+    'Infrastructure ': 'infura,jsx,javasc,next,polygon,ipfs,lens',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'blog dapp',
+    'Links ': 'neutr0n420/lensium.xyz (github.com)'
+  },
+  {
+    'Project name': 'Dgym',
+    'Description ': 'websites to be healthy and fit',
+    'Infrastructure ': 'solidity,js,python,typescript,react.js,hardhat,revise,push.',
+    'Infrastructure to build ': 'web3',
+    'Need ': 'health consiousness',
+    'Links ': 'https://github.com/kitai-hazure/dGym-web-app'
+  }
+]
